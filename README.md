@@ -255,7 +255,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🤝 Connect
 
 **Asmi Basnet**
-- LinkedIn: [[your-linkedin-profile]](https://www.linkedin.com/in/asmibasnet/)
+- LinkedIn: https://www.linkedin.com/in/asmibasnet/
 - Email: asmibas18@gmail.com
 
 
