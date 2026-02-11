@@ -248,6 +248,16 @@ Through this project, I've demonstrated:
 - [ ] Add customer churn prediction model
 - [ ] Expand to include marketing campaign analysis
 
+## Some Test results 
+
+<img width="1370" height="669" alt="image" src="https://github.com/user-attachments/assets/e68de808-b5a1-4c92-8bc2-8daaabf5f3de" />
+
+<img width="1126" height="672" alt="image" src="https://github.com/user-attachments/assets/c9e9eda0-98a3-4340-abc3-cc2980aaac22" />
+
+<img width="1271" height="650" alt="image" src="https://github.com/user-attachments/assets/68f7eff4-d749-4cd3-9e4d-1b218b63256c" />
+
+
+
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
