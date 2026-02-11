@@ -254,10 +254,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Connect
 
-**[Your Name]**
-- LinkedIn: [your-linkedin-profile]
-- Email: your.email@example.com
-- Portfolio: [your-portfolio-website]
+**Asmi Basnet**
+- LinkedIn: [[your-linkedin-profile]](https://www.linkedin.com/in/asmibasnet/)
+- Email: asmibas18@gmail.com
+
 
 ---
 
