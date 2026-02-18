@@ -176,7 +176,7 @@ Breaks down revenue contribution by customer segment.
 
 1. **Clone this repository**
 ```bash
-git clone https://github.com/yourusername/ecommerce-analytics-sql.git
+git clone https://github.com/AsmiBasnet/ecommerce-analytics-sql.git
 cd ecommerce-analytics-sql
 ```
 
